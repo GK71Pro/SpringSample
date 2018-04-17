@@ -1,6 +1,0 @@
-com/gkaraffa/springsample/repository/CustomerRepository.class
-com/gkaraffa/springsample/model/Customer.class
-com/gkaraffa/springsample/repository/HibernateCustomerRepositoryImpl.class
-com/gkaraffa/springsample/service/CustomerService.class
-com/gkaraffa/springsample/service/CustomerServiceImpl.class
-Application.class
